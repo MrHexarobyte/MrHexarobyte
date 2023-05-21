@@ -1,7 +1,7 @@
 - 👋 Hi, I’m hexaro!
 - 😊 Thanks for looking at my profile :)
 - 👀 I really like coding games and applications.
-- 🌱 I’m currently learning Lua.
+- 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on Game Developing
 - 📫 Heres my discord so you can meet and talk to me!
 - ❄️Discord: $hexaro#1945
