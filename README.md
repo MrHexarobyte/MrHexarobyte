@@ -1,12 +1,16 @@
-- 👋 Hi, I’m hexaro!
-- 😊 Thanks for looking at my profile :)
-- 👀 I really like coding games and applications.
-- 🌱 I’m currently learning PYTHON.
-- 💞️ I’m looking to collaborate on Game Developing
-- 📫 Heres my discord so you can meet and talk to me!
-- ❄️Discord: $hexaro#1945
+![wave](https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif)
+# Whats up! Im hexaro. 
 
-<!---
-MrHexarobyte/MrHexarobyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an python and javascript coder. I spend my free time coding new things.
+
+#### I am:
+- 😶‍🌫️ 13 y/o
+- 🧑🏻‍💻 working on my own coding language!
+- 🔴 free to help anybody!
+- 💖 in love with python and javascript
+- 📭 reachable on discord! Add me: ``hexaro#1945``
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
