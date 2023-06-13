@@ -112,7 +112,7 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 <li>
 
-![](https://dcbadge.vercel.app/api/shield/777518250825089035)
+<img src="https://dcbadge.vercel.app/api/shield/777518250825089035" />
 
 </li>
 
