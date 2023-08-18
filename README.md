@@ -17,10 +17,9 @@
 
 <br>
 
-- A passionate Self-taught Python and Javascript Developer
+- A passionate Self-taught Python, Javascript and Java Developer
 - Did code with Lua in the past. Cant tell im really good rn tho.
-- Playing Combat Warriors at spare time ;)
-- Currently learning more of Pythons great universe
+- Currently learning java libGDX which is, REALLY AMMMMAZING!
 
 
 
