@@ -1,29 +1,11 @@
 
 <h1 align="center"><b>Hi , I'm Hexaro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geologica&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Javascript+%F0%9F%92%96;Python%F0%9F%92%97;13y%2Fo%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Learnin'+even+rn%F0%9F%98%8C" alt="Typing SVG" /></a>
-</p>
-
-
 <br>
-
-
-
 	
 ## <picture><img src = "https://raw.githubusercontent.com/Naman27/Naman27/master/source.gif" width = 40px></picture> **About me**
-
 <picture> <img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width = 250px></picture>
-
 <br>
-
-- A passionate Self-taught Python, Javascript and Java Developer
-- Did code with Lua in the past. Cant tell im really good rn tho.
-- Currently learning java libGDX which is, REALLY AMMMMAZING!
-
-
-
-
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -33,29 +15,13 @@
 
 <p align="center">
 
-- **Languages**:
-
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
+- **Skills**:
+    [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+<br>
+<br>
 
 
 <br>
-    
-<br>
-
-- **Softwares and Tools**:
-  
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 </p>
